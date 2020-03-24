@@ -2,7 +2,12 @@
 
 {% block content %}
     <div>
-      <p>Your score is: {{ points }} / {{ num_questions }}</p>
+      <p>Your final score is: {{ score }}% or {{ points }}/{{ num_questions }}</p>
+      {% if score >= 71 %}
+      <p>You passed!</p>
+      {% else %}
+      <p>You didn't pass.</p>
+      {% endif %}
     </div>
     {% if corrections %}
       {% for question in questions %}

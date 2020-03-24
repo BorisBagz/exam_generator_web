@@ -93,13 +93,14 @@ def question():
                     points += 1
                 redirect('/question')
         return render_template('question.html', question=data[random_index], form=form_quest)
+    score = (points*100)/number_questions
     if form_score.validate_on_submit():
         correction = form_score.corrections.data
         if correction == 'Yes' :
             return render_template('score.html', points=points, num_questions=number_questions,
                                                  corrections=correction, questions=asked_questions,
-                                                 form=form_score)
-    return render_template('score.html', points=points, num_questions=number_questions, form=form_score)
+                                                 form=form_score, score=score)
+    return render_template('score.html', points=points, num_questions=number_questions, form=form_score, score=score)
 
 if __name__ == "__main__":
     app.run()
