@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+  <h1>
+    Hi Welcome to EXAM GENERATOR v1!
+  </h1>
+  <h2>
+    Please give us your name and choose the exam you want to take.
+  </h2>
+
+  <h3>
+    Available exams:
+  </h3>
+  <p>
+    1. CCSA R80 2019
+  </p>
+
+  <form action="" method="post" novalidate>
+    {{ form.hidden_tag() }}
+    <p>
+      {{ form.username.label }}<br>
+      {{ form.username(size=32) }}
+    </p>
+    <p>
+      {{ form.exam_id.label }}<br>
+      {{ form.exam_id(size=1) }}
+    </p>
+    <p>
+      {{ form.submit() }}
+    </p>
+  </form>
+
+{% endblock %}

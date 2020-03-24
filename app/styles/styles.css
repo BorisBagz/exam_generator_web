@@ -1,0 +1,17 @@
+body {
+  background-color: powderblue;
+}
+
+h2 {
+  text-decoration: underline;
+  color: #4583c2;
+}
+
+p {
+  padding-left: 20px;
+  font-size: 20px;
+}
+
+#just-line-break {
+  white-space: pre-line;
+}

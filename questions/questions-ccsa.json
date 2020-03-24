@@ -1,0 +1,1352 @@
+[
+  {
+    "question": "Which option, when applied to a rule, allows traffic to VPN gateways in specific VPN communities?",
+    "options": " A. All Connections (Clear or Encrypted)\n B. Accept all encrypted traffic\n C. Specific VPN Communities}\n D. All Site-to-Site VPN Communities",
+    "answer": "c"
+  },
+  {
+    "question": "When configuring Spoof Tracking, which tracking actions can an administrator select to be done when spoofed packets are detected?",
+    "options": " A. Log, send snmp trap, email\n B. Drop packet, alert, none\n C. Log, alert, none\n D. Log, allow packets, email",
+    "answer": "c"
+  },
+  {
+    "question": "Access roles allow the firewall administrator to configure network access according to",
+    "options": " A. a combination of computer groups and network\n B. users and user groups\n C. all of above\n D. remote access clients",
+    "answer": "c"
+  },
+  {
+    "question": "What are the three deployment considerations for a secure network?",
+    "options": " A. Distributed, Bridge Mode, and Remote\n B. Bridge Mode, Remote, and Standalone\n C. Remote, Standalone, and Distributed\n D. Standalone, Distributed, and Bridge Mode",
+    "answer": "d"
+  },
+  {
+    "question": "Which of the following Windows Security Events will NOT map a username to an IP address in Identity Awareness?",
+    "options": " A. Kerberos Ticket Renewed\n B. Kerberos Ticket Requested\n C. Account Logon\n D. Kerberos Ticket Timed Out",
+    "answer": "d"
+  },
+  {
+    "question": "Fill in the blank: Permanent VPN tunnels can be set on all tunnels in the community, on all tunnels for specific gateways, or__________.",
+    "options": " A. On all satellite gateway to satellite gateway tunnels\n B. On specific tunnels for specific gateways\n C. On specific tunnels in the community\n D. On specific satellite gateway to central gateway tunnels",
+    "answer": "c"
+  },
+  {
+    "question": "In Unified SmartConsole Gateways and Servers tab you can perform the following functions EXCEPT",
+    "options": " A. Upgrade the software version\n B. Open WebUI\n C. Open SSH\n D. Open service request with Check Point Technical Support",
+    "answer": "a"
+  },
+  {
+    "question": "Which Threat Prevention Software Blade provides protection from malicious software that can infect your network computers?",
+    "options": " A. Anti-Malware\n B. IPS\n C. Anti-bot\n D. Anti-Spam",
+    "answer": "c"
+  },
+  {
+    "question": "Which icon indicates that read/write access is enabled?",
+    "options": " A. Pencil\n B. Padlock\n C. Book\n D. Eyeglasses",
+    "answer": "a"
+  },
+  {
+    "question": "Which of the following blades is NOT subscription-based and therefore does not have to be renewed on a regular basis?",
+    "options": " A. Application Control\n B. Threat Emulation\n C. Anti-Virus\n D. Advanced Networking Blade",
+    "answer": "d"
+  },
+  {
+    "question": "Fill in the blank: Back up and restores can be accomplished through_________.",
+    "options": " A. SmartConsole, WebUI, or CLI\n B. WebUI, CLI, or SmartUpdate\n C. CLI, SmartUpdate, or SmartBackup\n D. SmartUpdate, SmartBackup, or SmartConsole",
+    "answer": "a"
+  },
+  {
+    "question": "Phase 1 of the two-phase negotiation process conducted by IKE operates in ______ mode.",
+    "options": " A. Main\n B. Authentication\n C. Quick\n D. High Alert",
+    "answer": "a"
+  },
+  {
+    "question": "What is the BEST method to deploy Identity Awareness for roaming users?",
+    "options": " A. Use Office Mode\n B. Use identity agents\n C. Share user identities between gateways\n D. Use captive portal",
+    "answer": "b"
+  },
+  {
+    "question": "What is the purpose of the Clean-up Rule?",
+    "options": " A. To log all traffic that is not explicitly allowed or denied in the Rule Base\n B. To clean up policies found inconsistent with the compliance blade reports\n C. To remove all rules that could have a conflict with other rules in the database\n D. To eliminate duplicate log entries in the Security Gateway",
+    "answer": "a"
+  },
+  {
+    "question": "What is Identity Sharing?",
+    "options": " A. Management servers can acquire and share identities with Security Gateways\n B. Users can share identities with other users\n C. Security Gateways can acquire and share identities with other Security Gateways\n D. Administrators can share identifies with other administrators",
+    "answer": "c"
+  },
+  {
+    "question": "What is the most recommended installation method for Check Point appliances?",
+    "options": " A. SmartUpdate installation\n B. DVD media created with Check Point ISOMorphic\n C. USB media created with Check Point ISOMorphic\n D. Cloud based installation",
+    "answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT a role of the SmartCenter:",
+    "options": " A. Status monitoring\n B. Policy configuration\n C. Certificate authority\n D. Address translation",
+    "answer": "c"
+  },
+  {
+    "question": "Fill in the blanks: There are ________ types of software containers ________.",
+    "options": " A. Software container: software package\n B. Software blade; software container\n C. Software package; signature\n D. Signature; software blade",
+    "answer": "a"
+  },
+  {
+    "question": "Fill in the bank: In Office mode, a Security Gateway assigns a remote client to an IP address once___________.",
+    "options": " A. the user connects and authenticates\n B. office mode is initiated\n C. the user requests a connection\n D. the user connects",
+    "answer": "a"
+  },
+  {
+    "question": "Which Identify Source(s) should be selected in Identify Awareness for when there is a requirement for a higher level of security for sensitive servers?",
+    "options": " A. AD Query\n B. Terminal Servers Endpoint Identify Agent\n C. Endpoint Identity Agent and Browser-Based Authentication\n D. RADIUS and Account Logon",
+    "answer": "c"
+  },
+  {
+    "question": "What is the most complete definition of the difference between the Install Policy button on the SmartConsole’s tab, and the Install Policy within a specific policy?",
+    "options": " A. The Global one also saves and published the session before installation.\n B. The Global one can install multiple selected policies at the same time.\n C. The local one does not install the Anti-Malware policy along with the Network policy.\n D. The second one pre-select the installation for only the current policy and for the applicable gateways.",
+    "answer": "d"
+  },
+  {
+    "question": "Which of the following is used to initially create trust between a Gateway and Security Management Server?",
+    "options": " A. Internal Certificate Authority\n B. Token\n C. One-time Password\n D. Certificate",
+    "answer": "c"
+  },
+  {
+    "question": "What are the advantages of a 'shared policy' in R80?",
+    "options": " A. Allows the administrator to share a policy between all the users identified by the Security Gateway\n B. Allows the administrator to share a policy between all the administrators managing the Security Management Server\n C. Allows the administrator to share a policy so that it is available to use in another Policy Package\n D. Allows the administrator to install a policy on one Security Gateway and it gets installed on another managed Security Gateway",
+    "answer": "c"
+  },
+  {
+    "question": "John is the administrator of a R80 Security Management server managing r R77.30 Check Point Security Gateway. John is currently updating the network objects and amending the rules using SmartConsole. To make John’s changes available to other administrators, and to save the database before installing a policy, what must John do?",
+    "options": " A. Logout of the session\n B. File > Save\n C. Install database\n D. Publish the session",
+    "answer": "d"
+  },
+  {
+    "question": "To view statistics on detected threats, which Threat Tool would an administrator use?",
+    "options": " A. Protections\n B. IPS Protections\n C. Profiles\n D. ThreatWiki",
+    "answer": "b"
+  },
+  {
+    "question": "What are the two types of NAT supported by the Security Gateway?",
+    "options": " A. Destination and Hide\n B. Hide and Static\n C. Static and Source\n D. Source and Destination",
+    "answer": "b"
+  },
+  {
+    "question": "After the initial installation on Check Point appliance, you notice that the Management interface and default gateway are incorrect. Which commands could you use to set the IP to 192.168.80.200/24 and default gateway to 192.168.80.1.",
+    "options": " A. set interface Mgmt ipv4-address 192.168.80.200 mask-length 24set static-route default nexthop gateway address 192.168.80.1 on save config\n B. add interface Mgmt ipv4-address 192.168.80.200 255.255.255.0add static-route 0.0.0.0.0.0.0.0 gw 192.168.80.1 on save config\n C. set interface Mgmt ipv4-address 192.168.80.200 255.255.255.0add static-route 0.0.0.0.0.0.0.0 gw 192.168.80.1 on save config\n D. add interface Mgmt ipv4-address 192.168.80.200 mask-length 24add static-route default nexthop gateway address 192.168.80.1 on save config",
+    "answer": "a"
+  },
+  {
+    "question": "What Check Point tool is used to automatically update Check Point products for the Gaia OS?",
+    "options": " A. Check Point INSPECT Engine\n B. Check Point Upgrade Service Engine\n C. Check Point Update Engine\n D. Check Point Upgrade Installation Service",
+    "answer": "b"
+  },
+  {
+    "question": "You are the Check Point administrator for Alpha Corp with an R80 Check Point estate. You have received a call by one of the management users stating that they are unable to browse the Internet with their new tablet connected to the company Wireless. The Wireless system goes through the Check Point Gateway. How do you review the logs to see what the problem may be?",
+    "options": " A. Open SmartLog and connect remotely to the IP of the wireless controller\n B. Open SmartView Tracker and filter the logs for the IP address of the tablet\n C. Open SmartView Tracker and check all the IP logs for the tablet\n D. Open SmartLog and query for the IP address of the Manager’s tablet",
+    "answer": "d"
+  },
+  {
+    "question": "How is communication between different Check Point components secured in R80? As with all questions, select the best answer",
+    "options": " A. By using IPSEC\n B. By using SIC\n C. By using ICA\n D. By using 3DES",
+    "answer": "b"
+  },
+  {
+    "question": "Identify the ports to which the Client Authentication daemon listens on by default?",
+    "options": " A. 259, 900\n B. 256, 257\n C. 8080, 529\n D. 80, 256",
+    "answer": "a"
+  },
+ {
+    "question": "What is the purpose of the CPCA process?",
+    "options": " A. Monitoring the status of processes\n B. Sending and receiving logs\n C. Communication between GUI clients and the SmartCenter server\n D. Generating and modifying certificates",
+    "answer": "d"
+  },
+ {
+    "question": "True or False: The destination server for Security Gateway logs depends on a Security Management Server configuration.",
+    "options": " A. False, log servers are configured on the Log Server General Properties\n B. True, all Security Gateways will only forward logs with a SmartCenter Server configuration\n C. True, all Security Gateways forward logs automatically to the Security Management Server\n D. False, log servers are enabled on the Security Gateway General Properties",
+    "answer": "c"
+  },
+ {
+    "question": "How can the changes made by an administrator before publishing the session be seen by a superuser administrator?",
+    "options": " A. By impersonating the administrator with the ‘Login as…’ option\n B. They cannot be seen\n C. From the SmartView Tracker audit log\n D. From Manage and Settings > Sessions, right click on the session and click ‘View Changes…’",
+    "answer": "c"
+  },
+ {
+    "question": "Which Check Point software blade monitors Check Point devices and provides a picture of network and security performance?",
+    "options": " A. Application Control\n B. Threat Emulation\n C. Logging and Status\n D. Monitoring",
+    "answer": "d"
+  },
+ {
+    "question": "What are the three types of UserCheck messages?",
+    "options": " A. inform, ask, and block\n B. block, action, and warn\n C. action, inform, and ask\n D. ask, block, and notify",
+    "answer": "a"
+  },
+ {
+    "question": "What two ordered layers make up the Access Control Policy Layer?",
+    "options": " A. URL Filtering and Network\n B. Network and Threat Prevention\n C. Application Control and URL Filtering\n D. Network and Application Control",
+    "answer": "d"
+  },
+ {
+    "question": "Which statement is TRUE of anti-spoofing?",
+    "options": " A. Anti-spoofing is not needed when IPS software blade is enabled\n B. It is more secure to create anti-spoofing groups manually\n C. It is BEST Practice to have anti-spoofing groups in sync with the routing table\n D. With dynamic routing enabled, anti-spoofing groups are updated automatically whenever there is a routing change",
+    "answer": "c"
+  },
+ {
+    "question": "Fill in the blank: The position of an implied rule is manipulated in the __________________ window.",
+    "options": " A. NAT\n B. Firewall\n C. Global Properties\n D. Object Explorer",
+    "answer": "c"
+  },
+ {
+    "question": "Which of the following methods can be used to update the trusted log server regarding the policy and configuration changes performed on the Security Management Server?",
+    "options": " A. Save Policy\n B. Install Database\n C. Save session\n D. Install Policy",
+    "answer": "d"
+  },
+ {
+    "question": "From the Gaia web interface, which of the following operations CANNOT be performed on a Security Management Server?",
+    "options": " A. Verify a Security Policy\n B. Open a terminal shell\n C. Add a static route\n D. View Security Management GUI Clients",
+    "answer": "a"
+  },
+ {
+    "question": "Which of the following are types of VPN communities?",
+    "options": " A. Pentagon, star, and combination\n B. Star, octagon, and combination\n C. Combined and star\n D. Meshed, star, and combination",
+    "answer": "d"
+  },
+ {
+    "question": "Which configuration element determines which traffic should be encrypted into a VPN tunnel vs. sent in the clear?",
+    "options": " A. The firewall topologies\n B. NAT Rules\n C. The Rule Base\n D. The VPN Domains",
+    "answer": "c"
+  },
+ {
+    "question": "What is the SOLR database for?",
+    "options": " A. Used for full text search and enables powerful matching capabilities\n B. Writes data to the database and full text search\n C. Serves GUI responsible to transfer request to the DLE server\n D. Enables powerful matching capabilities and writes data to the database",
+    "answer": "a"
+  },
+ {
+    "question": "Which of the following is NOT a component of a Distinguished Name?",
+    "options": " A. Organization Unit\n B. Country\n C. Common name\n D. User container",
+    "answer": "d"
+  },
+ {
+    "question": "Check Point ClusterXL Active/Active deployment is used when:",
+    "options": " A. Only when there is Multicast solution set up\n B. There is Load Sharing solution set up\n C. Only when there is Unicast solution set up\n D. There is High Availability solution set up",
+    "answer": "b"
+  },
+ {
+    "question": "Anti-Spoofing is typically set up on which object type?",
+    "options": " A. Security Gateway\n B. Host\n C. Security Management object\n D. Network",
+    "answer": "a"
+  },
+ {
+    "question": "You are conducting a security audit. While reviewing configuration files and logs, you notice logs accepting POP3 traffic, but you do not see a rule allowing POP3 traffic in the Rule Base Which of the following is the most likely cause?",
+    "options": " A. The POP3 rule is disabled.\n B. POP3 is accepted in Global Properties\n C. The POP3 rule is hidden.\n D. POP3 is one of 3 services (POP3, IMAP, and SMTP) accepted by the default mail object in R77.",
+    "answer": "d"
+  },
+ {
+    "question": "Which limitation of CoreXL is overcome by using (mitigated by) Multi-Queue?",
+    "options": " A. There is no traffic queue to be handled\n B. Several NICs can use one traffic queue by one CPU\n C. Each NIC has several traffic queues that are handled by multiple CPU cores\n D. Each NIC has one traffic queue that is handled by one CPU",
+    "answer": "c"
+  },
+ {
+    "question": "In R80 spoofing is defined as a method of:",
+    "options": " A. Disguising an illegal IP address behind an authorized IP address through Port Address Translation.\n B. Hiding your firewall from unauthorized users.\n C. Detecting people using false or wrong authentication logins\n D. Making packets appear as if they come from an authorized IP address.",
+    "answer": "d"
+  },
+ {
+    "question": "Which of the following is TRUE about the Check Point Host object?",
+    "options": " A. Check Point Host has no routing ability even if it has more than one interface installed.\n B. When you upgrade to R80 from R77.30 or earlier versions, Check Point Host objects are converted to gateway objects.\n C. Check Point Host is capable of having an IP forwarding mechanism.\n D. Check Point Host can act as a firewall.",
+    "answer": "a"
+  },
+ {
+    "question": "You are working with multiple Security Gateways enforcing an extensive number of rules. To simplify security administration, which action would you choose?",
+    "options": " A. Eliminate all possible contradictory rules such as the Stealth or Cleanup rules.\n B. Create a separate Security Policy package for each remote Security Gateway.\n C. Create network object that restrict all applicable rules to only certain networks.\n D. Run separate SmartConsole instances to login and configure each Security Gateway directly.",
+    "answer": "b"
+  },
+ {
+    "question": "Where would an administrator enable Implied Rules logging?",
+    "options": " A. In Smart Log Rules View\n B. In SmartDashboard on each rule\n C. In Global Properties under Firewall\n D. In Global Properties under log and alert",
+    "answer": "c"
+  },
+ {
+    "question": "To fully enable Dynamic Dispatcher on a Security Gateway:",
+    "options": " A. run fw ctl multik set_mode 9 in Expert mode and then reboot\n B. Using cpconfig, update the Dynamic Dispatcher value to 'full' under the CoreXL menu\n C. Edit /proc/interrupts to include multik set_mode 1 at the bottom of the file, save, and reboot\n D. run fw ctl multik set_mode 1 in Expert mode and then reboot",
+    "answer": "a"
+  },
+ {
+    "question": "Fill in the blank: The R80 utility fw monitor is used to troubleshoot___________",
+    "options": " A. User data base corruption\n B. LDAP conflicts\n C. Traffic issues\n D. Phase two key negotiation",
+    "answer": "c"
+  },
+ {
+    "question": "Which pre-defined Permission Profile should be assigned to an administrator that requires full access to audit all configurations without modifying them?",
+    "options": " A. Auditor\n B. Read Only All\n C. Super User\n D. Full Access",
+    "answer": "b"
+  },
+ {
+    "question": "You want to establish a VPN, using certificates. Your VPN will exchange certificates with an external partner. Which of the following activities you do first?",
+    "options": " A. Create a new logical-server object to represent your partner’s CA\n B. Exchange exported CA keys and use them to create a new server object to represent your partner’s Certificate Authority (CA)\n C. Manually import your partner’s Certificate Revocation List.\n D. Manually import your partner’s Access Control List.",
+    "answer": "b"
+  },
+ {
+    "question": "What is the Manual Client Authentication TELNET port?",
+    "options": " A. 23\n B. 264\n C. 900\n D. 259",
+    "answer": "d"
+  },
+ {
+    "question": "Session unique identifiers are passed to the web api using which http header option?",
+    "options": " A. X-chkp-sid\n B. Accept-Charset\n C. Proxy-Authorization\n D. Application",
+    "answer": "a"
+  },
+ {
+    "question": "Fill in the blank: The R80 featurepermits blocking specific IP addresses for a specified time period.",
+    "options": " A. Block Port Overflow\n B. Local Interface Spoofing\n C. Suspicious Activity Monitoring\n D. Adaptive Threat Prevention",
+    "answer": "c"
+  },
+ {
+    "question": "Of all the Check Point components in your network, which one changes most often and should be backed up most frequently?",
+    "options": " A. SmartManager\n B. SmartConsole\n C. Security Gateway\n D. Security Management Server",
+    "answer": "d"
+  },
+ {
+    "question": "Where does the security administrator activate Identity Awareness within SmartDashboard?",
+    "options": " A. Gateway Object > General Properties\n B. Security Management Server > Identity Awareness\n C. Policy > Global Properties > Identity Awareness\n D. LDAP Server Object > General Properties",
+    "answer": "d"
+  },
+ {
+    "question": "Which of the below is the MOST correct process to reset SIC from SmartDashboard?",
+    "options": " A. Run cpconfig, and click Reset.\n B. Click the Communication button for the firewall object, then click Reset. Run cpconfig on the gateway and type a new activation key.\n C. Run cpconfig, and select Secure Internal Communication > Change One Time Password\n D. Click Communication > Reset on the Gateway object, and type a new activation key.",
+    "answer": "b"
+  },
+ {
+    "question": "Identify the API that is not supported by Check Point currently.",
+    "options": " A. R80 Management API\n B. Identity Awareness Web Services API\n C. Open REST API\n D. OPSEC SDK",
+    "answer": "c"
+  },
+ {
+    "question": "If the Active Security Management Server fails or if it becomes necessary to change the Active to Standby, the following steps must be taken to prevent data loss. Providing the Active Security Management Server is responsible, which of these steps should NOT be performed:",
+    "options": " A. Rename the hostname of the Standby member to match exactly the hostname of the Active member.\n B. Change the Standby Security Management Server to Active.\n C. Change the Active Security Management Server to Standby.\n D. Manually synchronize the Active and Standby Security Management Servers.",
+    "answer": "a"
+  },
+ {
+    "question": "Fill in the blank: RADIUS protocol usesto communicate with the gateway",
+    "options": " A. UDP\n B. TDP\n C. CCP\n D. HTTP",
+    "answer": "a"
+  },
+ {
+    "question": "Which one of the following is true about Threat Extraction?",
+    "options": " A. Always delivers a file to user\n B. Works on all MS Office, Executables, and PDF files\n C. Can take up to 3 minutes to complete\n D. Delivers file only if no threats found",
+    "answer": "a"
+  },
+ {
+    "question": "DLP and Geo Policy are examples of what type of Policy?",
+    "options": " A. Standard Policies\n B. Shared Policies\n C. Inspection Policies\n D. Unified Policies",
+    "answer": "b"
+  },
+ {
+    "question": "According to Check Point Best Practice, when adding a 3rd party gateway to a Check Point security solution what object SHOULD be added?",
+    "options": " A. Interoperable Device\n B. Network Node\n C. Externally managed gateway\n D. Gateway",
+    "answer": "a"
+  },
+ {
+    "question": "When connected to the Check Point R80 Management Server using the SmartConsole the first administrator to connect has a lock on:",
+    "options": " A. Only the objects being modified in the Management Database and other administrators can connect to make changes using a special session as long as they all connect from the same LAN network.\n B. The entire Management Database and other administrators can connect to make changes only if the first administrator switches to Read-only.\n C. The entire Management Database and all sessions and other administrators can connect only as Read-only.\n D. Only the objects being modified in his session of the Management Database and other administrators can connect to make changes using different sessions.",
+    "answer": "d"
+  },
+ {
+    "question": "The CDT utility supports which of the following?",
+    "options": " A. Major version upgrades to R77.30\n B. Only Jumbo HFA’s and hotfixes\n C. Only major version upgrades to R80.10\n D. All upgrades",
+    "answer": "d"
+  },
+ {
+    "question": "Fill in the blank: The_____________feature allows administrators to share a policy with other policy packages.",
+    "options": " A. Shared policy packages\n B. Shared policies\n C. Concurrent policy packages\n D. Concurrent policies",
+    "answer": "b"
+  },
+ {
+    "question": "You have successfully backed up your Check Point configurations without the OS information. What command would you use to restore this backup?",
+    "options": " A. restore_backup\n B. import backup\n C. cp_merge\n D. migrate import",
+    "answer": "d"
+  },
+ {
+    "question": "What Identity Agent allows packet tagging and computer authentication?",
+    "options": " A. Endpoint Security Client\n B. Full Agent\n C. Light Agent\n D. System Agent",
+    "answer": "b"
+  },
+ {
+    "question": "Which command shows the installed licenses?",
+    "options": " A. cplic print\n B. print cplic\n C. fwlic print\n D. show licenses",
+    "answer": "a"
+  },
+ {
+    "question": "Choose what BEST describes a Session",
+    "options": " A. Starts when an Administrator publishes all the changes made on SmartConsole.\n B. Starts when an Administrator logs in to the Security Management Server through SmartConsole and ends when it is published.\n C. Sessions ends when policy is pushed to the Security Gateway.\n D. Sessions locks the policy package for editing.",
+    "answer": "b"
+  },
+ {
+    "question": "The organization’s security manager wishes to back up just the Gaia operating system parameters. Which command can be used to back up only Gaia operating system parameters like interface details, Static routes and Proxy ARP entries?",
+    "options": " A. show configuration\n B. backup\n C. migrate export\n D. upgrade export",
+    "answer": "a"
+  },
+ {
+    "question": "Which of the following is NOT a set of Regulatory Requirements related to Information Security?",
+    "options": " A. ISO 37001\n B. Sarbanes Oxley (SOX)\n C. HIPPA\n D. PCI",
+    "answer": "a"
+  },
+ {
+    "question": "Fill in the blank: Gaia can be configured using the________or____________",
+    "options": " A. Gaia; command line interface\n B. WebUI; Gaia Interface\n C. Command line interface; WebUI\n D. Gaia Interface; GaiaUI",
+    "answer": "c"
+  },
+ {
+    "question": "The system administrator of a company is trying to find out why acceleration is not working for the traffic. The traffic is allowed according to the rule base and checked for viruses. But it is not accelerated. What is the most likely reason that the traffic is not accelerated?",
+    "options": " A. There is a virus found. Traffic is still allowed but not accelerated\n B. The connection required a Security server\n C. Acceleration is not enabled\n D. The traffic is originating from the gateway itself",
+    "answer": "d"
+  },
+ {
+    "question": "Which of the following is the most secure means of authentication?",
+    "options": " A. Password\n B. Certificate\n C. Token\n D. Pre-shared secret",
+    "answer": "b"
+  },
+ {
+    "question": "You are about to integrate RSA SecurlD users into the Check Point infrastructure. What kind of users are to be defined via SmartDashboard?",
+    "options": " A. A group with generic user\n B. All users\n C. LDAP Account Unit Group\n D. Internal user Group",
+    "answer": "a"
+  },
+ {
+    "question": "You are about to integrate RSA SecurlD users into the Check Point infrastructure. What kind of users are to be defined via SmartDashboard?",
+    "options": " A. A group with generic user\n B. All users\n C. LDAP Account Unit Group\n D. Internal user Group",
+    "answer": "a"
+  },
+ {
+    "question": "You want to verify if there are unsaved changes in GAiA that will be lost with a reboot. What command can be used?",
+    "options": " A. show unsaved\n B. show save-state\n C. show configuration diff\n D. show config-state",
+    "answer": "d"
+  },
+ {
+    "question": "What SmartEvent component creates events?",
+    "options": " A. Consolidation Policy\n B. Correlation Unit\n C. SmartEvent Policy\n D. SmartEvent GUI",
+    "answer": "b"
+  },
+ {
+    "question": "Which feature is NOT provided by all Check Point Mobile Access solutions?",
+    "options": " A. Support for IPv6\n B. Granular access control\n C. Strong user authentication\n D. Secure connectivity",
+    "answer": "a"
+  },
+ {
+    "question": "To enforce the Security Policy correctly, a Security Gateway requires:",
+    "options": " A. a routing table\n B. awareness of the network topology\n C. a Demilitarized Zone\n D. a Security Policy install",
+    "answer": "b"
+  },
+ {
+    "question": "What are the three authentication methods for SIC?",
+    "options": " A. Passwords, Users, and standards-based SSL for the creation of security channels\n B. Certificates, standards-based SSL for the creation of secure channels, and 3DES or AES128 for encryption\n C. Packet Filtering, certificates, and 3DES or AES128 for encryption\n D. Certificates, Passwords, and Tokens",
+    "answer": "b"
+  },
+ {
+    "question": "You work as a security administrator for a large company. CSO of your company has attended a security conference where he has learnt how hackers constantly modify their strategies and techniques to evade detection and reach corporate resources. He wants to make sure that his company has the right protections in place. Check Point has been selected for the security vendor. Which Check Point products protects BEST against malware and zero-day attacks while ensuring quick delivery of safe content to your users?",
+    "options": " A. IPS and Application Control\n B. IPS, anti-virus and anti-bot\n C. IPS, anti-virus and e-mail security\n D. SandBlast",
+    "answer": "d"
+  },
+ {
+    "question": "Your company enforces a strict change control policy. Which of the following would be MOST effective for quickly dropping an attacker’s specific active connection?",
+    "options": " A. Change the Rule Base and install the Policy to all Security Gateways\n B. Block Intruder feature of SmartView Tracker\n C. Intrusion Detection System (IDS) Policy install\n D. SAM – Suspicious Activity Rules feature of SmartView Monitor",
+    "answer": "b"
+  },
+ {
+    "question": "You find a suspicious connection from a problematic host You decide that you want to block everything from that whole network, not just the problematic host You want to block this for an hour while you investigate further, but you do not want to add any rules to the Rule Base. How do you achieve this?",
+    "options": " A. Use dbedit to script the addition of a rule directly into the Rule Bases_5_0. fws configuration file.\n B. Select Block intruder from the Tools menu in SmartView Tracker.\n C. Create a Suspicious Activity Rule in Smart Monitor.\n D. Add a temporary rule using SmartDashboard and select hide rule",
+    "answer": "c"
+  },
+ {
+    "question": "What is the best sync method in the ClusterXL deployment?",
+    "options": " A. Use 1 cluster + 1 St sync\n B. Use 1 dedicated sync interface\n C. Use 3 clusters + 1 St sync + 2nd sync + 3rd sync\n D. Use 2 clusters + 1 St sync + 2nd sync",
+    "answer": "b"
+  },
+ {
+    "question": "Choose what BEST describes the Policy Layer Traffic Inspection.",
+    "options": " A. Ifapacket doesnot matchany of the inline layers, the matching continues to the next Layer.\n B. Ifapacket matches an inline layer, it will continue matching the next layer.\n C. Ifapacket doesnot matchany of the inline layers, the packet will be matched against the Implicit Clean-up Rule.\n D. Ifapacket doesnot matcha Network Policy Layer, the matching continues to its inline layer.",
+    "answer": "b"
+  },
+ {
+    "question": "Tom has been tasked to install Check Point R80 in a distributed deployment. Before Tom installs the systems this way, how many machines will he need if he does NOT include a SmartConsole machine in his calculations?",
+    "options": " A. One machine, but it needs to be installed using SecurePlatform for compatibility purposes.\n B. One machine\n C. Two machines\n D. Three machines",
+    "answer": "c"
+  },
+ {
+    "question": "Which of the following Automatically Generated Rules NAT rules have the lowest implementation priority?",
+    "options": " A. Machine Hide NAT\n B. Address Range Hide NAT\n C. Network Hide NAT\n D. Machine Static NAT",
+    "answer": "c"
+  },
+ {
+    "question": "Which of the following technologies extracts detailed information from packets and stores that information in state tables?",
+    "options": " A. INSPECT Engine\n B. Stateful Inspection\n C. Packet Filtering\n D. Application Layer Firewall",
+    "answer": "b"
+  },
+ {
+    "question": "Fill in the blank: With the User Directory Software Blade, you can create R80 user definitions on a(an)________________Server.",
+    "options": " A. NT domain\n B. SMTP\n C. LDAP\n D. SecurlD",
+    "answer": "c"
+  },
+ {
+    "question": "When defining QoS global properties, which option below is not valid?",
+    "options": " A. Weight\n B. Authenticated timeout\n C. Schedule\n D. Rate",
+    "answer": "c"
+  },
+ {
+    "question": "Which command is used to add users to or from existing roles?",
+    "options": " A. Add rba user <User Name> roles <List>\n B. Add rba user <User Name>\n C. Add user <User Name> roles <List>\n D. Add user <User Name>",
+    "answer": "a"
+  },
+ {
+    "question": "Jennifer McHanry is CEO of ACME. She recently bought her own personal iPad. She wants use her iPad to access the internal Finance Web server. Because the iPad is not a member of the Active Directory domain, she cannot identify seamlessly with AD Query. However, she can enter her AD credentials in the Captive Portal and then get the same access as on her office computer. Her access to resources is based on rules in the R77 Firewall Rule Base. To make this scenario work, the IT administrator must:\n1)Enable Identity Awareness on a gateway and select Captive Portal as one of the Identity Sources.\n2)In the Portal Settings window in the User Access section, make sure that Name and password login is selected.\n3)Create a new rule in the Firewall Rule Base to let Jennifer McHanry access network destinations. Select accept as the Action.\n4)Install policy.\nMs McHanry tries to access the resource but is unable. What should she do?",
+    "options": " A. Have the security administrator select the Action field of the Firewall Rule 'Redirect HTTP connections to an authentication (captive) portal'.\n B. Have the security administrator reboot the firewall.\n C. Have the security administrator select Any for the Machines tab in the appropriate Access Role.\n D. Install the Identity Awareness agent on her iPad.",
+    "answer": "a"
+  },
+ {
+    "question": "When Identity Awareness is enabled, which identity source(s) is(are) used for Application Control?",
+    "options": " A. RADIUS\n B. Remote Access and RADIUS\n C. AD Query\n D. AD Query and Browser-based Authentication",
+    "answer": "d"
+  },
+ {
+    "question": "Which is a suitable command to check whether Drop Templates are activated or not?",
+    "options": " A. fw ctl get int activate_drop_templates\n B. fwaccel stat\n C. fwaccel stats\n D. fw ctl templates -d",
+    "answer": "b"
+  },
+ {
+    "question": "What is the Transport layer of the TCP/IP model responsible for?",
+    "options": " A. It transports packets as datagrams along different routes to reach their destination.\n B. It manages the flow of data between two hosts to ensure that the packets are correctly assembled and delivered to the target application.\n C. It defines the protocols that are used to exchange data between networks and how host programs interact with the Application layer.\n D. It deals with all aspects of the physical components of network connectivity and connects with different network types.",
+    "answer": "b"
+  },
+ {
+    "question": "Which of the following is a hash algorithm?",
+    "options": " A. 3DES\n B. IDEA\n C. DES\n D. MD5",
+    "answer": "d"
+  },
+ {
+    "question": "In the R80 SmartConsole, on which tab are Permissions and Administrators defined?",
+    "options": " A. Security Policies\n B. Logs and Monitor\n C. Manage and Settings\n D. Gateway and Servers",
+    "answer": "c"
+  },
+ {
+    "question": "On R80.10 when configuring Third-Party devices to read the logs using the LEA (Log Export API) the default Log Server uses port:",
+    "options": " A. 18210\n B. 18184\n C. 257\n D. 18191",
+    "answer": "b"
+  },
+ {
+    "question": "Packages and licenses are loaded from all of these sources EXCEPT",
+    "options": " A. Download Center Web site\n B. UserUpdate\n C. User Center\n D. Check Point DVD",
+    "answer": "b"
+  },
+ {
+    "question": "Choose the SmartLog property that is TRUE.",
+    "options": " A. SmartLog has been an option since release R71.10.\n B. SmartLog is not a Check Point product.\n C. SmartLog and SmartView Tracker are mutually exclusive.\n D. SmartLog is a client of SmartConsole that enables enterprises to centrally track log records and security activity with Google-like search.",
+    "answer": "d"
+  },
+ {
+    "question": "Fill in the blank: An LDAP server holds one or more",
+    "options": " A. Server Units\n B. Administrator Units\n C. Account Units\n D. Account Server",
+    "answer": "c"
+  },
+ {
+    "question": "What port is used for delivering logs from the gateway to the management server?",
+    "options": " A. Port 258\n B. Port 18209\n C. Port 257\n D. Port 981",
+    "answer": "c"
+  },
+ {
+    "question": "Which two Identity Awareness commands are used to support identity sharing?",
+    "options": " A. Policy Decision Point (PDP) and Policy Enforcement Point (PEP)\n B. Policy Enforcement Point (PEP) and Policy Manipulation Point (PMP)\n C. Policy Manipulation Point (PMP) and Policy Activation Point (PAP)\n D. Policy Activation Point (PAP) and Policy Decision Point (PDP)",
+    "answer": "a"
+  },
+ {
+    "question": "When using LDAP as an authentication method for Identity Awareness, the query:",
+    "options": " A. Requires client and server side software.\n B. Prompts the user to enter credentials.\n C. Requires administrators to specifically allow LDAP traffic to and from the LDAP Server and the Security Gateway.\n D. Is transparent, requiring no client or server side software, or client intervention.",
+    "answer": "d"
+  },
+ {
+    "question": "Fill in the blank: When LDAP is integrated with Check Point Security Management, it is then referred to as_______________",
+    "options": " A. UserCheck\n B. User Directory\n C. User Administration\n D. User Center",
+    "answer": "b"
+  },
+ {
+    "question": "Which GUI tool can be used to view and apply Check Point licenses?",
+    "options": " A. cpconfig\n B. Management Command Line\n C. SmartConsole\n D. SmartUpdate",
+    "answer": "d"
+  },
+ {
+    "question": "What happens when you run the command: fw sam -J src [Source IP Address]?",
+    "options": " A. Connections from the specified source are blocked without the need to change the Security Policy.\n B. Connections to the specified target are blocked without the need to change the Security Policy.\n C. Connections to and from the specified target are blocked without the need to change the Security Policy\n D. Connections to and from the specified target are blocked with the need to change the Security Policy.",
+    "answer": "a"
+  },
+ {
+    "question": "What are the two high availability modes?",
+    "options": " A. Load Sharing and Legacy\n B. Traditional and New\n C. Active and Standby\n D. New and Legacy",
+    "answer": "d"
+  },
+ {
+    "question": "To optimize Rule Base efficiency the most hit rules should be where?",
+    "options": " A. Removed from the Rule Base.\n B. Towards the middle of the Rule Base.\n C. Towards the top of the Rule Base.\n D. Towards the bottom of the Rule Base.",
+    "answer": "c"
+  },
+ {
+    "question": "Which SmartConsole component can Administrators use to track changes to the Rule Base?",
+    "options": " A. WebUI\n B. SmartView Tracker\n C. SmartView Monitor\n D. SmartReporter",
+    "answer": "b"
+  },
+ {
+    "question": "In what way is Secure Network Distributor (SND) a relevant feature of the Security Gateway?",
+    "options": " A. SND is a feature to accelerate multiple SSL VPN connections\n B. SND is an alternative to IPSec Main Mode, using only 3 packets\n C. SND is used to distribute packets among Firewall instances\n D. SND is a feature of fw monitor to capture accelerated packets",
+    "answer": "c"
+  },
+ {
+    "question": "Choose what BEST describes the reason why querying logs now is very fast.",
+    "options": " A. New Smart-1 appliances double the physical memory install\n B. Indexing Engine indexes logs for faster search results\n C. SmartConsole now queries results directly from the Security Gateway\n D. The amount of logs been store is less than the usual in older versions",
+    "answer": "b"
+  },
+ {
+    "question": "The fw monitor utility is used to troubleshoot which of the following problems?",
+    "options": " A. Phase two key negotiation\n B. Address translation\n C. Log Consolidation Engine\n D. User data base corruption",
+    "answer": "b"
+  },
+ {
+    "question": "Which application should you use to install a contract file?",
+    "options": " A. SmartView Monitor\n B. WebUI\n C. SmartUpdate\n D. SmartProvisioning",
+    "answer": "c"
+  },
+ {
+    "question": "According to Check Point Best Practice, when adding a non-managed Check Point Gateway to a Check Point security solution what object SHOULD be added?",
+    "options": " A. Gateway\n B. Interoperable Device\n C. Externally managed gateway\n D. Network Node",
+    "answer": "c"
+  },
+ {
+    "question": "What happens if the identity of a user is known?",
+    "options": " A. If the user credentials do not match an Access Role, the traffic is automatically dropped.\n B. If the user credentials do not match an Access Role, the system displays a sandbox.\n C. If the user credentials do not match an Access Role, the gateway moves onto the next rule.\n D. If the user credentials do not match an Access Role, the system displays the Captive Portal.",
+    "answer": "c"
+  },
+ {
+    "question": "Which of the following is TRUE regarding Gaia command line?",
+    "options": " A. Configuration changes should be done in mgmt_cli and use CLISH for monitoring, Expert mode is used only for OS level tasks.\n B. Configuration changes should be done in expert-mode and CLISH is used for monitoring.\n C. Configuration changes should be done in mgmt-cli and use expert-mode for OS-level tasks.\n D. All configuration changes should be made in CLISH and expert-mode should be used for OS-level tasks.",
+    "answer": "d"
+  },
+ {
+    "question": "Which set of objects have an Authentication tab?",
+    "options": " A. Templates, Users\n B. Users, Networks\n C. Users, User Group\n D. Networks, Hosts",
+    "answer": "a"
+  },
+ {
+    "question": "Fill in the blank: Each cluster has ____ interfaces.",
+    "options": " A. Five\n B. Two\n C. Three\n D. Four",
+    "answer": "c"
+  },
+ {
+    "question": "The CPD daemon is a Firewall Kernel Process that does NOT do which of the following?",
+    "options": " A. Secure Internal Communication (SIC)\n B. Restart Daemons if they fail\n C. Transfer messages between Firewall processes\n D. Pulls application monitoring status",
+    "answer": "b"
+  },
+ {
+    "question": "Fill in the blank: The________is used to obtain identification and security information about network users.",
+    "options": " A. User Directory\n B. User server\n C. UserCheck\n D. User index",
+    "answer": "a"
+  },
+ {
+    "question": "MegaCorp’s security infrastructure separates Security Gateways geographically. You must request a central license for one remote Security Gateway. How do you apply the license?",
+    "options": " A. Using the remote Gateway’s IP address, and attaching the license to the remote Gateway via SmartUpdate.\n B. Using your Security Management Server’s IP address, and attaching the license to the remote Gateway via SmartUpdate.\n C. Using the remote Gateway’s IP address, and applying the license locally with command cplic put.\n D. Using each of the Gateway’s IP addresses, and applying the licenses on the Security Management Server with the command cprlic put.",
+    "answer": "b"
+  },
+ {
+    "question": "Bob and Joe both have Administrator Roles on their Gaia Platform. Bob logs in on the WebUI and then Joe logs in through CLI. Choose what BEST describes the following scenario, where Bob and Joe are both logged in:",
+    "options": " A. When Joe logs in, Bob will be log out automatically.\n B. Since they both are log in on different interfaces, they both will be able to make changes.\n C. If Joe tries to make changes, he won’t, database will be locked.\n D. Bob will be prompt that Joe logged in.",
+    "answer": "c"
+  },
+ {
+    "question": "Which policy type is used to enforce bandwidth and traffic control rules?",
+    "options": " A. Threat Emulation\n B. Access Control\n C. QoS\n D. Threat Prevention",
+    "answer": "c"
+  },
+ {
+    "question": "A digital signature:",
+    "options": " A. Guarantees the authenticity and integrity of a message.\n B. Automatically exchanges shared keys.\n C. Decrypts data to its original form.\n D. Provides a secure key exchange mechanism over the Internet.",
+    "answer": "a"
+  },
+ {
+    "question": "Choose the Best place to find a Security Management Server backup file named backup_fw, on a Check Point Appliance",
+    "options": " A. /var/log/Cpbackup/backups/backup/backup_fw.tgs\n B. /var/log/Cpbackup/backups/backup/backup_fw.tar\n C. /var/log/Cpbackup/backups/backups/backup_fw.tar\n D. /var/log/Cpbackup/backups/backup_fw.tgz",
+    "answer": "d"
+  },
+ {
+    "question": "Which one of the following is TRUE?",
+    "options": " A. Ordered policy is a sub-policy within another policy\n B. One policy can be either inline or ordered, but not both\n C. Inline layer can be defined as a rule action\n D. Pre-R80 Gateways do not support ordered layers",
+    "answer": "c"
+  },
+ {
+    "question": "Fill in the blank: Authentication rules are defined for__________",
+    "options": " A. User groups\n B. Users using UserCheck\n C. Individual users\n D. All users in the database",
+    "answer": "a"
+  },
+ {
+    "question": "Fill in the blank: A__________is used by a VPN gateway to send traffic as if it were a physical interface.",
+    "options": " A. VPN Tunnel Interface\n B. VPN community\n C. VPN router\n D. VPN interface",
+    "answer": "a"
+  },
+ {
+    "question": "What is the appropriate default Gaia Portal address?",
+    "options": " A. HTTP://[IPADDRESS]\n B. HTTPS://[IPADDRESS]:8080\n C. HTTPS://[IPADDRESS):4434\n D. HTTPS://[IPADDRESS]",
+    "answer": "d"
+  },
+ {
+    "question": "Fill in the blank: By default, the SIC certificates issued by R80 Management Server are based on the___________algorithm.",
+    "options": " A. SHA-256\n B. SHA-200\n C. MD5\n D. SHA-128",
+    "answer": "a"
+  },
+ {
+    "question": "During the Check Point Stateful Inspection Process, for packets that do not pass Firewall Kernel Inspection and are rejected by the rule definition, packets are:",
+    "options": " A. Dropped without sending a negative acknowledgment\n B. Dropped without logs and without sending a negative acknowledgment\n C. Dropped with negative acknowledgment\n D. Dropped with logs and without sending a negative acknowledgment",
+    "answer": "c"
+  },
+ {
+    "question": "Which method below is NOT one of the ways to communicate using the Management API’s?",
+    "options": " A. Typing API commands using the 'mgmt_cli' command\n B. Typing API commands from a dialog box inside the SmartConsole GUI application\n C. Typing API commands using Gaia’s secure shell (clash)19+\n D. Sending API commands over an http connection using web-services",
+    "answer": "d"
+  },
+ {
+    "question": "How many users can have read/write access in Gaia at one time?",
+    "options": " A. Infinite\n B. One\n C. Three\n D. Two",
+    "answer": "b"
+  },
+ {
+    "question": "Fill in the blank: The tool________generates a R80 Security Gateway configuration report.",
+    "options": " A. infoCP\n B. infoview\n C. cpinfo\n D. fw cpinfo",
+    "answer": "c"
+  },
+ {
+    "question": "Which of the following is NOT an authentication scheme used for accounts created through SmartConsole?",
+    "options": " A. Security questions\n B. Check Point password\n C. SecurlD\n D. RADIUS",
+    "answer": "a"
+  },
+ {
+    "question": "SmartEvent does NOT use which of the following procedures to identity events:",
+    "options": " A. Matching a log against each event definition\n B. Create an event candidate\n C. Matching a log against local exclusions\n D. Matching a log against global exclusions",
+    "answer": "c"
+  },
+ {
+    "question": "Which NAT rules are prioritized first?",
+    "options": " A. Post-Automatic/Manual NAT rules\n B. Manual/Pre-Automatic NAT\n C. Automatic Hide NAT\n D. Automatic Static NAT",
+    "answer": "b"
+  },
+ {
+    "question": "Which of the following is an authentication method used for Identity Awareness?",
+    "options": " A. SSL\n B. Captive Portal\n C. PKI\n D. RSA",
+    "answer": "b"
+  },
+ {
+    "question": "By default, which port does the WebUI listen on?",
+    "options": " A. 80\n B. 4434\n C. 443\n D. 8080",
+    "answer": "c"
+  },
+ {
+    "question": "What are the two types of address translation rules?",
+    "options": " A. Translated packet and untranslated packet\n B. Untranslated packet and manipulated packet\n C. Manipulated packet and original packet\n D. Original packet and translated packet",
+    "answer": "d"
+  },
+ {
+    "question": "The Captive Portal tool:",
+    "options": " A. Acquires identities from unidentified users.\n B. Is only used for guest user authentication.\n C. Allows access to users already identified.\n D. Is deployed from the Identity Awareness page in the Global Properties settings.",
+    "answer": "a"
+  },
+ {
+    "question": "Which of the following is NOT an attribute of packer acceleration?",
+    "options": " A. Source address\n B. Protocol\n C. Destination port\n D. Application Awareness",
+    "answer": "d"
+  },
+ {
+    "question": "Which deployment adds a Security Gateway to an existing environment without changing IP routing?",
+    "options": " A. Distributed\n B. Bridge Mode\n C. Remote\n D. Standalone",
+    "answer": "b"
+  },
+ {
+    "question": "Which of the following ClusterXL modes uses a non-unicast MAC address for the cluster IP address.",
+    "options": " A. High Availability\n B. Load Sharing Multicast\n C. Load Sharing Pivot\n D. Master/Backup",
+    "answer": "b"
+  },
+ {
+    "question": "Which of the following actions do NOT take place in IKE Phase 1 ?",
+    "options": " A. Peers agree on encryption method.\n B. Diffie-Hellman key is combined with the key material to produce the symmetrical IPsec key.\n C. Peers agree on integrity method.\n D. Each side generates a session key from its private key and peer’s public key.",
+    "answer": "b"
+  },
+ {
+    "question": "VPN gateways must authenticate to each other prior to exchanging information. What are the two types of credentials used for authentication?",
+    "options": " A. 3DES and MD5\n B. Certificates and IPsec\n C. Certificates and pre-shared secret\n D. IPsec and VPN Domains",
+    "answer": "c"
+  },
+ {
+    "question": "Which R77 GUI would you use to see number of packets accepted since the last policy install?",
+    "options": " A. SmartView Monitor\n B. SmartView Tracker\n C. SmartDashboard\n D. SmartView Status",
+    "answer": "a"
+  },
+ {
+    "question": "Which type of Endpoint Identity Agent includes packet tagging and computer authentication?",
+    "options": " A. Full\n B. Light\n C. Custom\n D. Complete",
+    "answer": "a"
+  },
+ {
+    "question": "When configuring LDAP User Directory integration, Changes applied to a User Directory template are:",
+    "options": " A. Reflected immediately for all users who are using template.\n B. Not reflected for any users unless the local user template is changed.\n C. Reflected for all users who are using that template and if the local user template is changed as well.\n D. Not reflected for any users who are using that template.",
+    "answer": "a"
+  },
+ {
+    "question": "In SmartView Tracker, which rule shows when a packet is dropped due to anti-spoofing?",
+    "options": " A. Rule 0\n B. Blank field under Rule Number\n C. Rule 1\n D. Cleanup Rule",
+    "answer": "a"
+  },
+ {
+    "question": "Which Check Point feature enables application scanning and the detection?",
+    "options": " A. Application Dictionary\n B. AppWiki\n C. Application Library\n D. CPApp",
+    "answer": "b"
+  },
+ {
+    "question": "You manage a global network extending from your base in Chicago to Tokyo, Calcutta and Dallas. Management wants a report detailing the current software level of each Enterprise class Security Gateway. You plan to take the opportunity to create a proposal outline, listing the most cost-effective way to upgrade your Gateways. Which two SmartConsole applications will you use to create this report and outline?",
+    "options": " A. SmartView Tracker and SmartView Monitor\n B. SmartLSM and SmartUpdate\n C. SmartDashboard and SmartView Tracker\n D. SmartView Monitor and SmartUpdate",
+    "answer": "d"
+  },
+ {
+    "question": "What is NOT an advantage of Packet Filtering?",
+    "options": " A. Low Security and No Screening above Network Layer\n B. Application Independence\n C. High Performance\n D. Scalability",
+    "answer": "a"
+  },
+ {
+    "question": "When logging in for the first time to a Security management Server through SmartConsole, a fingerprint is saved to the:",
+    "options": " A. Security Management Server’s /home/.fgpt file and is available for future SmartConsole authentications.\n B. Windows registry is available for future Security Management Server authentications.\n C. there is no memory used for saving a fingerprint anyway.\n D. SmartConsole cache is available for future Security Management Server authentications.",
+    "answer": "b"
+  },
+ {
+    "question": "Vanessa is a Firewall administrator. She wants to test a backup of her company’s production Firewall cluster Dallas_GW. She has a lab environment that is identical to her production environment. She decided to restore production backup via SmartConsole in lab environment. Which details she need to fill in System Restore window before she can click OK button and test the backup?",
+    "options": " A. Server, SCP, Username, Password, Path, Comment, Member\n B. Server, TFTP, Username, Password, Path, Comment, All Members\n C. Server, Protocol, Username, Password, Path, Comment, All Members\n D. Server, Protocol, Username. Password, Path, Comment, member",
+    "answer": "d"
+  },
+ {
+    "question": "Katie has been asked to do a backup on the Blue Security Gateway. Which command would accomplish this in the Gaia CLI?",
+    "options": " A. Blue > add local backup\n B. Expert&Blue#add local backing\n C. Blue > set backup local\n D. Blue > add backup local",
+    "answer": "d"
+  },
+ {
+    "question": "The WebUI offers three methods for downloading Hotfixes via CPUSE. One of them is Automatic method. How many times per day will CPUSE agent check for hotfixes and automatically download them?",
+    "options": " A. Six times per day\n B. Seven times per day\n C. Every two hours\n D. Every three hours",
+    "answer": "d"
+  },
+ {
+    "question": "Which remote Access Solution is clientless?",
+    "options": " A. Checkpoint Mobile\n B. Endpoint Security Suite\n C. SecuRemote\n D. Mobile Access Portal",
+    "answer": "d"
+  },
+ {
+    "question": "Which of the following uses the same key to decrypt as it does to encrypt?",
+    "options": " A. Asymmetric encryption\n B. Dynamic encryption\n C. Certificate-based encryption\n D. Symmetric encryption",
+    "answer": "d"
+  },
+ {
+    "question": "Which of the following is NOT an integral part of VPN communication within a network?",
+    "options": " A. VPN key\n B. VPN community\n C. VPN trust entities\n D. VPN domain",
+    "answer": "a"
+  },
+ {
+    "question": "Which of the following is NOT a VPN routing option available in a star community?",
+    "options": " A. To satellites through center only\n B. To center, or through the center to other satellites, to Internet and other VPN targets\n C. To center and to other satellites through center\n D. To center only",
+    "answer": "a"
+  },
+ {
+    "question": "Your manager requires you to setup a VPN to a new business partner site. The administrator from the partner site gives you his VPN settings and you notice that he setup AES 128 for IKE phase 1 and AES 256 for IKE phase 2. Why is this a problematic setup?",
+    "options": " A. The two algorithms do not have the same key length and so don’t work together. You will get the error …No proposal chosen…\n B. All is fine as the longest key length has been chosen for encrypting the data and a shorter key length for higher performance for setting up the tunnel.\n C. Only 128 bit keys are used for phase 1 keys which are protecting phase 2, so the longer key length in phase 2 only costs performance and does not add security due to a shorter key in phase 1.\n D. All is fine and can be used as is.",
+    "answer": "c"
+  },
+ {
+    "question": "Which of the following commands is used to verify license installation?",
+    "options": " A. Cplic verify license\n B. Cplic print\n C. Cplic show\n D. Cplic license",
+    "answer": "b"
+  },
+ {
+    "question": "Fill in the blank: The________software blade enables Application Security policies to allow, block, or limit website access based on user, group, and machine identities.",
+    "options": " A. Application Control\n B. Data Awareness\n C. URL Filtering\n D. Threat Emulation",
+    "answer": "c"
+  },
+ {
+    "question": "What are the three components for Check Point Capsule?",
+    "options": " A. Capsule Docs, Capsule Cloud, Capsule Connect\n B. Capsule Workspace, Capsule Cloud, Capsule Connect\n C. Capsule Workspace, Capsule Docs, Capsule Connect\n D. Capsule Workspace, Capsule Docs, Capsule Cloud",
+    "answer": "d"
+  },
+ {
+    "question": "You are the Security Administrator for MegaCorp. In order to see how efficient your firewall Rule Base is, you would like to see how many often the particular rules match. Where can you see it? Give the BEST answer.",
+    "options": " A. In the SmartView Tracker, if you activate the column Matching Rate\n B. In SmartReporter, in the section Firewall Blade – Activity > Network Activity with information concerning Top Matched Logged Rules\n C. SmartReporter provides this information in the section Firewall Blade – Security > Rule Base Analysis with information concerning Top Matched Logged Rules.\n D. It is not possible to see it directly. You can open SmartDashboard and select UserDefined in the Track column. Afterwards, you need to create your own program with an external counter.",
+    "answer": "c"
+  },
+ {
+    "question": "If there is an Accept Implied Policy set to 'First', what is the reason Jorge cannot see any logs?",
+    "options": " A. Log Implied Rule was not selected on Global Properties.\n B. Log Implied Rule was not set correctly on the track column on the rules base.\n C. Track log column is set to none.\n D. Track log column is set to Log instead of Full Log.",
+    "answer": "a"
+  },
+ {
+    "question": "SandBlast offers flexibility in implementation based on their individual business needs. What is an option for deployment of Check Point SandBlast Zero-Day Protection?",
+    "options": " A. Smart Cloud Services\n B. Load Sharing Mode Services\n C. Threat Agent Solution\n D. Public Cloud Services",
+    "answer": "a"
+  },
+ {
+    "question": "What is the benefit of Manual NAT over Automatic NAT?",
+    "options": " A. If you create a new Security Policy, the Manual NAT rules will be transferred to this new policy\n B. There is no benefit since Automatic NAT has in any case higher priority over Manual NAT\n C. You have the full control about the priority of the NAT rules\n D. On IPSO and GAIA Gateways, it is handled in a Stateful manner",
+    "answer": "c"
+  },
+ {
+    "question": "What is the BEST command to view configuration details of all interfaces in Gaia CLISH?",
+    "options": " A. ifconfig -a\n B. show interfaces\n C. show interfaces detail\n D. show configuration interface",
+    "answer": "d"
+  },
+ {
+    "question": "As a Security Administrator, you must refresh the Client Authentication authorized time-out every time a new user connection is authorized- How do you do this? Enable the Refreshable Timeout setting:",
+    "options": " A. in the user object’s Authentication screen.\n B. in the Gateway object’s Authentication screen\n C. in the Limit tab of the Client Authentication Action Properties screen.\n D. in the Global Properties Authentication screen.",
+    "answer": "c"
+  },
+ {
+    "question": "You have two rules, ten users, and two user groups in a Security Policy. You create database version 1 for this configuration. You then delete two existing users and add a new user group. You modify one rule and add two new rules to the Rule Base You save the Security Policy and create database version 2. After a while, you decide to roll back to version 1 to use the Rule Base, but you want to keep your user database. How can you do this?",
+    "options": " A. Run fwm dbexport -1 filename. Restore the database. Then, run fwm dbimport -1 filename to import the users.\n B. Run fwm_dbexport to export the user database. Select restore the entire database in the Database Revision screen. Then, run fwm_dbimport.\n C. Restore the entire database, except the user database, and then create the new user and user group.\n D. Restore the entire database, except the user database.",
+    "answer": "d"
+  },
+ {
+    "question": "Which of the following commands is used to monitor cluster members?",
+    "options": " A. cphaprob state\n B. cphaprob status\n C. cphaprob\n D. cluster state",
+    "answer": "a"
+  },
+ {
+    "question": "In Logging and Monitoring, the tracking options are Log, Detailed Log and Extended Log. Which of the following options can you add to each Log, Detailed Log and Extended Log?",
+    "options": " A. Accounting\n B. Suppression\n C. Accounting/Suppression\n D. Accounting/Extended",
+    "answer": "c"
+  },
+ {
+    "question": "When attempting to start a VPN tunnel, in the logs the error ‘no proposal chosen’ is seen numerous times. No other VPN-related log entries are present. Which phase of the VPN negotiations has failed?",
+    "options": " A. IKE Phase 1\n B. IPSEC Phase 2\n C. IPSEC Phase 1\n D. IKE Phase 2",
+    "answer": "a"
+  },
+ {
+    "question": "The security Gateway is installed on GAiA R80 The default port for the WEB User Interface is____________",
+    "options": " A. TCP 18211\n B. TCP 257\n C. TCP 4433\n D. TCP 443",
+    "answer": "d"
+  },
+ {
+    "question": "Which of the completed statements is NOT true? The WebUI can be used to manage user accounts and:",
+    "options": " A. assign privileges to users.\n B. edit the home directory of the user.\n C. add users to your Gaia system.\n D. assign user rights to their home directory in the Security Management Server",
+    "answer": "d"
+  },
+ {
+    "question": "To ensure that VMAC mode is enabled, which CLI command you should run on all cluster members? Choose the best answer.",
+    "options": " A. fw ctl set int fwha vmac global param enabled\n B. fw ctl get int fwha vmac global param enabled; result of command should return value 1\n C. cphaprob -a if\n D. fw ctl get int fwha_vmac_global_param_enabled; result of command should return value 1",
+    "answer": "c"
+  },
+ {
+    "question": "To ensure that VMAC mode is enabled, which CLI command you should run on all cluster members? Choose the best answer.",
+    "options": " A. fw ctl set int fwha vmac global param enabled\n B. fw ctl get int fwha vmac global param enabled; result of command should return value 1\n C. cphaprob -a if\n D. fw ctl get int fwha_vmac_global_param_enabled; result of command should return value 1",
+    "answer": "c"
+  },
+ {
+    "question": "In the Check Point Security Management Architecture, which component(s) can store logs?",
+    "options": " A. SmartConsole\n B. Security Management Server and Security Gateway\n C. Security Management Server\n D. SmartConsole and Security Management Server",
+    "answer": "b"
+  },
+ {
+    "question": "In the Check Point Security Management Architecture, which component(s) can store logs?",
+    "options": " A. SmartConsole\n B. Security Management Server and Security Gateway\n C. Security Management Server\n D. SmartConsole and Security Management Server",
+    "answer": "b"
+  },
+ {
+    "question": "You are about to test some rule and object changes suggested in an R77 news group. Which backup solution should you use to ensure the easiest restoration of your Security Policy to its previous configuration after testing the changes?",
+    "options": " A. Manual copies of the directory $FWDIR/conf\n B. upgrade_export command\n C. Database Revision Control\n D. GAiA backup utilities",
+    "answer": "c"
+  },
+ {
+    "question": "In which deployment is the security management server and Security Gateway installed on the same appliance?",
+    "options": " A. Bridge Mode\n B. Remote\n C. Standalone\n D. Distributed",
+    "answer": "c"
+  },
+ {
+    "question": "What is the difference between an event and a log?",
+    "options": " A. Events are generated at gateway according to Event Policy\n B. A log entry becomes an event when it matches any rule defined in Event Policy\n C. Events are collected with SmartWorkflow from Trouble Ticket systems\n D. Logs and Events are synonyms",
+    "answer": "b"
+  },
+ {
+    "question": "While enabling the Identity Awareness blade the Identity Awareness wizard does not automatically detect the windows domain. Why does it not detect the windows domain?",
+    "options": " A. Security Gateways is not part of the Domain\n B. SmartConsole machine is not part of the domain\n C. SMS is not part of the domain\n D. Identity Awareness is not enabled on Global properties",
+    "answer": "b"
+  },
+ {
+    "question": "Fill in the blank: To build an effective Security Policy, use a__________and_________rule.",
+    "options": " A. Cleanup; stealth\n B. Stealth; implicit\n C. Cleanup; default\n D. Implicit; explicit",
+    "answer": "a"
+  },
+ {
+    "question": "Under which file is the proxy arp configuration stored?",
+    "options": " A. $FWDIR/state/proxy_arp.conf on the management server\n B. $FWDIR/conf/local.arp on the management server\n C. $FWDIR/state/_tmp/proxy.arp on the security gateway\n D. $FWDIR/conf/local.arp on the gateway",
+    "answer": "d"
+  },
+ {
+    "question": "Which options are given on features, when editing a Role on Gaia Platform?",
+    "options": " A. Read/Write, Read Only\n B. Read/Write, Read only, None\n C. Read/Write, None\n D. Read Only, None",
+    "answer": "b"
+  },
+ {
+    "question": "When a packet arrives at the gateway, the gateway checks it against the rules in the top Policy Layer, sequentially from top to bottom, and enforces the first rule that matches a packet. Which of the following statements about the order of rule enforcement is true?",
+    "options": " A. If the Action is Accept, the gateway allows the packet to pass through the gateway.\n B. If the Action is Drop, the gateway continues to check rules in the next Policy Layer down.\n C. If the Action is Accept, the gateway continues to check rules in the next Policy Layer down.\n D. If the Action is Drop, the gateway applies the Implicit Clean-up Rule for that Policy Layer.",
+    "answer": "c"
+  },
+ {
+    "question": "Which product correlates logs and detects security threats, providing a centralized display of potential attack patterns from all network devices?",
+    "options": " A. SmartView Monitor\n B. SmartEvent\n C. SmartUpdate\n D. SmartDashboard",
+    "answer": "b"
+  },
+ {
+    "question": "Which of the following is an identity acquisition method that allows a Security Gateway to identify Active Directory users and computers?",
+    "options": " A. UserCheck\n B. Active Directory Query\n C. Account Unit Query\n D. User Directory Query",
+    "answer": "b"
+  },
+ {
+    "question": "Where do we need to reset the SIC on a gateway object?",
+    "options": " A. SmartDashboard > Edit Gateway Object > General Properties > Communication\n B. SmartUpdate > Edit Security Management Server Object > SIC\n C. SmartUpdate > Edit Gateway Object > Communication\n D. SmartDashboard > Edit Security Management Server Object > SIC",
+    "answer": "a"
+  },
+ {
+    "question": "All R77 Security Servers can perform authentication with the exception of one. Which of the Security Servers can NOT perform authentication?",
+    "options": " A. FTP\n B. SMTP\n C. HTTP\n D. RLOGIN",
+    "answer": "b"
+  },
+ {
+    "question": "Using mgmt_cli, what is the correct syntax to import a host object called Server_1 from the CLI?",
+    "options": " A. mgmt_cli add-host 'Server_1' ip.address '10.15.123.10' –format txt\n B. mgmt_cli add host name 'Server_1' ip_address '10.15.123.10' –format json\n C. mgmt_cli add object-host 'Server_1' ip_address '10.15.123.10' –format json\n D. mgmt_cIi add object 'Server_1' ip_address '10.15.123.10' –format json",
+    "answer": "b"
+  },
+ {
+    "question": "NAT can NOT be configured on which of the following objects?",
+    "options": " A. HTTP Logical Server\n B. Gateway\n C. Address Range\n D. Host",
+    "answer": "a"
+  },
+ {
+    "question": "Using ClusterXL, what statement is true about the Sticky Decision Function?",
+    "options": " A. Can only be changed for Load Sharing implementations\n B. All connections are processed and synchronized by the pivot\n C. Is configured using cpconfig\n D. Is only relevant when using SecureXL",
+    "answer": "a"
+  },
+ {
+    "question": "Fill in the blanks: The__________collects logs and sends them to the__________",
+    "options": " A. Log server; security management server\n B. Log server, Security Gateway\n C. Security management server; Security Gateway\n D. Security Gateways; log server",
+    "answer": "d"
+  },
+ {
+    "question": "When installing a dedicated R80 SmartEvent server, what is the recommended size of the root partition?",
+    "options": " A. Any size\n B. Less than 20GB\n C. More than 10GB and less than 20 GB\n D. At least 20GB",
+    "answer": "d"
+  },
+ {
+    "question": "Fill in the blank: When tunnel test packets no longer invoke a response, SmartView Monitor displays______________for the given VPN tunnel.",
+    "options": " A. Down\n B. No Response\n C. Inactive\n D. Failed",
+    "answer": "a"
+  },
+ {
+    "question": "What is the potential downside or drawback to choosing the Standalone deployment option instead of the Distributed deployment option?",
+    "options": " A. degrades performance as the Security Policy grows in size\n B. requires additional Check Point appliances\n C. requires additional software subscription\n D. increases cost",
+    "answer": "a"
+  },
+ {
+    "question": "Fill in the blank: Once a license is activated, a _______ should be installed.",
+    "options": " A. License Management file\n B. Security Gateway Contract file\n C. Service Contract file\n D. License Contract file",
+    "answer": "c"
+  },
+ {
+    "question": "Which of these attributes would be critical for a site-to-site VPN?",
+    "options": " A. Scalability to accommodate user groups\n B. Centralized management\n C. Strong authentication\n D. Strong data encryption",
+    "answer": "d"
+  },
+ {
+    "question": "Mesh and Star are two types of VPN topologies. Which statement below is TRUE about these types of communities?",
+    "options": " A. A star community requires Check Point gateways, as it is a Check Point proprietary technology.\n B. In a star community, satellite gateways cannot communicate with each other.\n C. In a mesh community, member gateways cannot communicate directly with each other.\n D. In a mesh community, all members can create a tunnel with any other member.",
+    "answer": "d"
+  },
+ {
+    "question": "Vanessa is firewall administrator in her company; her company is using Check Point firewalls on central and remote locations, which are managed centrally by R80 Security Management Server. One central location has an installed R77.30 Gateway on Open server. Remote location is using Check Point UTM-1 570 series appliance with R71. Which encryption is used in Secure Internal Communication (SIC) between central management and firewall on each location?",
+    "options": " A. On central firewall AES 128 encryption is used for SIC, on Remote firewall 3DES encryption is used for SIC.\n B. On both firewalls, the same encryption is used for SIC. This is AES-GCM-256.\n C. The Firewall Administrator can choose which encryption suite will be used by SIC.\n D. On central firewall AES256 encryption is used for SIC, on Remote firewall AES128 encryption is used for SIC.",
+    "answer": "a"
+  },
+ {
+    "question": "To install a brand new Check Point Cluster, the MegaCorp IT department bought 1 Smart-1 and 2 Security Gateway Appliances to run a cluster. Which type of cluster is it?",
+    "options": " A. Full HA Cluster\n B. High Availability\n C. Standalone\n D. Distributed",
+    "answer": "b"
+  },
+ {
+    "question": "In SmartEvent, what are the different types of automatic reactions that the administrator can configure?",
+    "options": " A. Mail, Block Source, Block Event Activity, External Script, SNMP Trap\n B. Mail, Block Source, Block Destination, Block Services, SNMP Trap\n C. Mail, Block Source, Block Destination, External Script, SNMP Trap\n D. Mail, Block Source, Block Event Activity, Packet Capture, SNMP Trap",
+    "answer": "a"
+  },
+ {
+    "question": "Which one of the following is the preferred licensing model? Select the Best answer.",
+    "options": " A. Local licensing because it ties the package license to the IP-address of the gateway and has no dependency of the Security Management Server.\n B. Central licensing because it ties the package license to the IP-address of the Security Management Server and has no dependency of the gateway.\n C. Local licensing because it ties the package license to the MAC-address of the gateway management interface and has no Security Management Server dependency.\n D. Central licensing because it ties the package license to the MAC-address of the Security Management Server Mgmt-interface and has no dependency of the gateway.",
+    "answer": "b"
+  },
+ {
+    "question": "The IT Management team is interested in the new features of the Check Point R80 Management and wants to upgrade but they are concerned that the existing R77.30 Gaia Gateways cannot be managed by R80 because it is so different. As the administrator responsible for the Firewalls, how can you answer or confirm these concerns?",
+    "options": " A. R80 Management contains compatibility packages for managing earlier versions of Check Point Gateways prior to R80. Consult the R80 Release Notes for more information.\n B. R80 Management requires the separate installation of compatibility hotfix packages for managing the earlier versions of Check Point Gateways prior to R80. Consult the R80 Release Notes for more information.\n C. R80 Management was designed as a completely different Management system and so can only monitor Check Point Gateways prior to R80.\n D. R80 Management cannot manage earlier versions of Check Point Gateways prior to R80. Only R80 and above Gateways can be managed. Consult the R80 Release Notes for more information.",
+    "answer": "a"
+  },
+ {
+    "question": "Which firewall daemon is responsible for the FW CLI commands?",
+    "options": " A. fwd\n B. fwm\n C. cpm\n D. cpd",
+    "answer": "a"
+  },
+ {
+    "question": "Which of the following authentication methods can be configured in the Identity Awareness setup wizard?",
+    "options": " A. Check Point Password\n B. TACACS\n C. LDAP\n D. Windows password",
+    "answer": "c"
+  },
+ {
+    "question": "You have discovered suspicious activity in your network. What is the BEST immediate action to take?",
+    "options": " A. Create a policy rule to block the traffic.\n B. Create a suspicious action rule to block that traffic.\n C. Wait until traffic has been identified before making any changes.\n D. Contact ISP to block the traffic.",
+    "answer": "b"
+  },
+ {
+    "question": "Joey wants to configure NTP on R80 Security Management Server. He decided to do this via WebUI. What is the correct address to access the Web Ul for Gaia platform via browser?",
+    "options": " A. https://<Device_IP_Address>\n B. https://<Device_IP_Address>:443\n C. https://<Device_IP_Address>:10000\n D. https://<Device_IP_Address>:4434",
+    "answer": "a"
+  },
+ {
+    "question": "Which of the following is NOT an option for internal network definition of Anti-spoofing?",
+    "options": " A. Specific – derived from a selected object\n B. Route-based – derived from gateway routing table\n C. Network defined by the interface IP and Net Mask\n D. Not-defmed",
+    "answer": "b"
+  },
+ {
+    "question": "Fill in the blank: A__________VPN deployment is used to provide remote users with secure access to internal corporate resources by authenticating the user through an internet browser.",
+    "options": " A. Clientless remote access\n B. Clientless direct access\n C. Client-based remote access\n D. Direct access",
+    "answer": "a"
+  },
+ {
+    "question": "When you upload a package or license to the appropriate repository in SmartUpdate, where is the package or license stored",
+    "options": " A. Security Gateway\n B. Check Point user center\n C. Security Management Server\n D. SmartConsole installed device",
+    "answer": "c"
+  },
+ {
+    "question": "You find that Users are not prompted for authentication when they access their Web servers, even though you have created an HTTP rule via User Authentication. Choose the BEST reason why.",
+    "options": " A. You checked the cache password on desktop option in Global Properties\n B. Another rule that accepts HTTP without authentication exists in the Rule Base.\n C. You have forgotten to place the User Authentication Rule before the Stealth Rule.\n D. Users must use the SecuRemote Client, to use the User Authentication Rule.",
+    "answer": "b"
+  },
+ {
+    "question": "Can multiple administrators connect to a Security Management Server at the same time?",
+    "options": " A. No, only one can be connected\n B. Yes, all administrators can modify a network object at the same time\n C. Yes, every administrator has their own username, and works in a session that is independent of other administrators\n D. Yes, but only one has the right to write",
+    "answer": "d"
+  },
+ {
+    "question": "Using R80 Smart Console, what does a 'pencil icon' in a rule mean?",
+    "options": " A. I have changed this rule\n B. Someone else has changed this rule\n C. This rule is managed by check point’s SOC\n D. This rule can’t be changed as it’s an implied rule",
+    "answer": "a"
+  },
+ {
+    "question": "Which of the following licenses are considered temporary?",
+    "options": " A. Perpetual and Trial\n B. Plug-and-play and Evaluation\n C. Subscription and Perpetual\n D. Evaluation and Subscription",
+    "answer": "b"
+  },
+ {
+    "question": "Fill in the blanks: A High Availability deployment is referred to as a__________cluster and a Load Sharing deployment is referred to as a_________cluster.",
+    "options": " A. Standby/standby; active/active\n B. Active/active; standby/standby\n C. Active/active; active/standby;\n D. Active/standby; active/active",
+    "answer": "d"
+  },
+ {
+    "question": "What is the default shell for the command line interface?",
+    "options": " A. Expert\n B. Clish\n C. Admin\n D. Normal",
+    "answer": "b"
+  },
+ {
+    "question": "Which type of the Check Point license ties the package license to the IP address of the Security Management Server?",
+    "options": " A. Local\n B. Central\n C. Corporate\n D. Formal",
+    "answer": "b"
+  },
+ {
+    "question": "What is the main difference between Threat Extraction and Threat Emulation?",
+    "options": " A. Threat Emulation never delivers a file and takes more than 3 minutes to complete\n B. Threat Extraction always delivers a file and takes less than a second to complete\n C. Threat Emulation never delivers a file that takes less than a second to complete\n D. Threat Extraction never delivers a file and takes more than 3 minutes to complete",
+    "answer": "b"
+  },
+ {
+    "question": "Office mode means that:",
+    "options": " A. SecurelD client assigns a routable MAC address. After the user authenticates for a tunnel, the VPN gateway assigns a routable IP address to the remote client.\n B. Users authenticate with an Internet browser and use secure HTTPS connection.\n C. Local ISP (Internet service Provider) assigns a non-routable IP address to the remote user.\n D. Allows a security gateway to assign a remote client an IP address. After the user authenticates for a tunnel, the VPN gateway assigns a routable IP address to the remote client.",
+    "answer": "d"
+  },
+ {
+    "question": "Which of the following statements accurately describes the command snapshot?",
+    "options": " A. snapshot creates a full OS-level backup, including network-interface data. Check Point production information, and configuration settings of a GAiA Security Gateway.\n B. snapshot creates a Security Management Server full system-level backup on any OS\n C. snapshot stores only the system-configuration settings on the Gateway\n D. A Gateway snapshot includes configuration settings and Check Point product information from the remote Security Management Server",
+    "answer": "a"
+  },
+ {
+    "question": "Which authentication scheme requires a user to possess a token?",
+    "options": " A. TACACS\n B. SecurlD\n C. Check Point password\n D. RADIUS",
+    "answer": "b"
+  },
+ {
+    "question": "What command would show the API server status?",
+    "options": " A. cpm status\n B. api restart\n C. api status\n D. show api status",
+    "answer": "d"
+  },
+ {
+    "question": "Which of the following is NOT a valid option when configuring access for Captive Portal?",
+    "options": " A. From the Internet\n B. Through internal interfaces\n C. Through all interfaces\n D. According to the Firewall Policy",
+    "answer": "a"
+  },
+ {
+    "question": "Packet acceleration (SecureXL) identifies connections by several attributes. Which of the attributes is NOT used for identifying connection?",
+    "options": " A. Source Address\n B. Destination Address\n C. TCP Acknowledgment Number\n D. Source Port",
+    "answer": "c"
+  },
+ {
+    "question": "Fill in the blank: Service blades must be attached to a______________.",
+    "options": " A. Security Gateway\n B. Management container\n C. Management server\n D. Security Gateway container",
+    "answer": "d"
+  },
+ {
+    "question": "Customer’s R80 management server needs to be upgraded to R80.10. What is the best upgrade method when the management server is not connected to the Internet?",
+    "options": " A. Export R80 configuration, clean install R80.10 and import the configuration\n B. CPUSE online upgrade\n C. CPUSE offline upgrade\n D. SmartUpdate upgrade",
+    "answer": "c"
+  },
+ {
+    "question": "Customer’s R80 management server needs to be upgraded to R80.10. What is the best upgrade method when the management server is not connected to the Internet?",
+    "options": " A. Export R80 configuration, clean install R80.10 and import the configuration\n B. CPUSE online upgrade\n C. CPUSE offline upgrade\n D. SmartUpdate upgrade",
+    "answer": "c"
+  },
+ {
+    "question": "What are types of Check Point APIs available currently as part of R80.10 code?",
+    "options": " A. Security Gateway API, Management API, Threat Prevention API and Identity Awareness Web Services API\n B. Management API, Threat Prevention API, Identity Awareness Web Services API and OPSEC SDK API\n C. OSE API, OPSEC SDK API, Threat Prevention API and Policy Editor API\n D. CPMI API, Management API, Threat Prevention API and Identity Awareness Web Services API",
+    "answer": "b"
+  },
+ {
+    "question": "Tom has connected to the R80 Management Server remotely using SmartConsole and is in the process of making some Rule Base changes, when he suddenly loses connectivity. Connectivity is restored shortly afterward. What will happen to the changes already made:",
+    "options": " A. Tom’s changes will have been stored on the Management when he reconnects and he will not lose any of this work.\n B. Tom will have to reboot his SmartConsole computer, and access the Management cache store on that computer, which is only accessible after a reboot.\n C. Tom’s changes will be lost since he lost connectivity and he will have to start again.\n D. Tom will have to reboot his SmartConsole computer, clear the cache and restore changes.",
+    "answer": "a"
+  },
+ {
+    "question": "Fill in the blanks: The Application Layer Firewalls inspect traffic through the_______layer(s) of the TCP/IP model and up to and including the____________layer.",
+    "options": " A. Lower; Application\n B. First two, Internet\n C. First two; Transport\n D. Upper; Application",
+    "answer": "a"
+  },
+ {
+    "question": "Fill in the blank: An identity server uses a______for user authentication.",
+    "options": " A. Shared secret\n B. Certificate\n C. One-time password\n D. Token",
+    "answer": "a"
+  },
+ {
+    "question": "You have enabled 'Full Log' as a tracking option to a security rule. However, you are still not seeing any data type information. What is the MOST likely reason?",
+    "options": " A. Logging has disk space issues. Change logging storage options on the logging server or Security Management Server properties and install database.\n B. Data Awareness is not enabled.\n C. Identity Awareness is not enabled.\n D. Logs are arriving from Pre-R80 gateways.",
+    "answer": "a"
+  },
+ {
+    "question": "Which command can you use to enable or disable multi-queue per interface?",
+    "options": " A. cpmqset\n B. Cpmqueue set\n C. Cpmq config\n D. Set cpmq enable",
+    "answer": "a"
+  },
+ {
+    "question": "Which tool CANNOT be launched from SmartUpdate",
+    "options": " A. IP Appliance Voyager\n B. snapshot\n C. GAiA WebUI\n D. cpinfo",
+    "answer": "b"
+  },
+ {
+    "question": "Which command is used to obtain the configuration lock in Gaia?",
+    "options": " A. Lock database override\n B. Unlock database override\n C. Unlock database lock\n D. Lock database user",
+    "answer": "a"
+  },
+ {
+    "question": "What is the order of NAT priorities?",
+    "options": " A. Static NAT, IP pool NAT, hide NAT\n B. IP pool NAT, static NAT, hide NAT\n C. Static NAT, automatic NAT, hide NAT\n D. Static NAT, hide NAT, IP pool NAT",
+    "answer": "a"
+  },
+ {
+    "question": "Which is NOT an encryption algorithm that can be used in an IPSEC Security Association (Phase 2)?",
+    "options": " A. AES-GCM-256\n B. AES-CBC-256\n C. AES-GCM-128\n D. DES-GCM-256",
+    "answer": "b"
+  },
+ {
+    "question": "Fill in the blanks: VPN gateways authenticate using______________and_____________",
+    "options": " A. Passwords; tokens\n B. Certificates; pre-shared secrets\n C. Certificates; passwords\n D. Tokens; pre-shared secrets",
+    "answer": "b"
+  },
+ {
+    "question": "A Cleanup rule:",
+    "options": " A. logs connections that would otherwise be dropped without logging by default.\n B. drops packets without logging connections that would otherwise be dropped and logged by default.\n C. logs connections that would otherwise be accepted without logging by default.\n D. drops packets without logging connections that would otherwise be accepted and logged by default.",
+    "answer": "a"
+  },
+ {
+    "question": "A Cleanup rule:",
+    "options": " A. logs connections that would otherwise be dropped without logging by default.\n B. drops packets without logging connections that would otherwise be dropped and logged by default.\n C. logs connections that would otherwise be accepted without logging by default.\n D. drops packets without logging connections that would otherwise be accepted and logged by default.",
+    "answer": "a"
+  },
+ {
+    "question": "Which the following type of authentication on Mobile Access can NOT be used as the first authentication method?",
+    "options": " A. Dynamic ID\n B. RADIUS\n C. Username and Password\n D. Certificate",
+    "answer": "a"
+  },
+ {
+    "question": "In order to modify Security Policies the administrator can use which of the following tools? Select the BEST answer.",
+    "options": " A. Command line of the Security Management Server or mgmt_cli.exe on any Windows computer.\n B. SmartConsole and WebUI on the Security Management Server.\n C. mgmt_cli or WebUI on Security Gateway and SmartConsole on the Security Management Server.\n D. SmartConsole or mgmt_cli on any computer where SmartConsole is installed.",
+    "answer": "d"
+  },
+ {
+    "question": "Which of the following is NOT a SecureXL traffic flow?",
+    "options": " A. Medium Path\n B. Accelerated Path\n C. Fast Path\n D. Slow Path",
+    "answer": "c"
+  },
+ {
+    "question": "Where can administrator edit a list of trusted SmartConsole clients in R80?",
+    "options": " A. cpconfig on a Security Management Server, in the WebUI logged into a Security Management Server.\n B. Only using SmartConsole: Manage and Settings > Permissions and Administrators > Advanced > Trusted Clients.\n C. In cpconfig on a Security Management Server, in the WebUI logged into a Security Management Server, in SmartConsole: Manage and Settings>Permissions and Administrators>Advanced>Trusted Clients.\n D. WebUI client logged to Security Management Server, SmartDashboard: Manage and Settings>Permissions and Administrators>Advanced>Trusted Clients, via cpconfig on a Security Gateway.",
+    "answer": "c"
+  },
+ {
+    "question": "Which type of Check Point license is tied to the IP address of a specific Security Gateway and cannot be transferred to a gateway that has a different IP address?",
+    "options": " A. Central\n B. Corporate\n C. Formal\n D. Local",
+    "answer": "d"
+  },
+ {
+    "question": "Ken wants to obtain a configuration lock from other administrator on R80 Security Management Server. He can do this via WebUl or a via CLI. Which command should be use in CLI? Choose the correct-answer.",
+    "options": " A. remove database lock\n B. The database feature has one command lock database override.\n C. override database lock\n D. The database feature has two commands: lock database override and unlock database. Both will work.",
+    "answer": "b"
+  },
+ {
+    "question": "What is the default time length that Hit Count Data is kept?",
+    "options": " A. 3 month\n B. 4 weeks\n C. 12 months\n D. 6 months",
+    "answer": "a"
+  },
+ {
+    "question": "What are the three essential components of the Check Point Security Management Architecture?",
+    "options": " A. SmartConsole, Security Management Server, Security Gateway\n B. SmartConsole, SmartUpdate, Security Gateway\n C. Security Management Server, Security Gateway, Command Line Interface\n D. WebUI, SmartConsole, Security Gateway",
+    "answer": "a"
+  },
+ {
+    "question": "The Firewall kernel is replicated multiple times, therefore:",
+    "options": " A. The Firewall kernel only touches the packet if the connection is accelerated\n B. The Firewall can run different policies per core\n C. The Firewall kernel is replicated only with new connections and deletes itself once the connection times out\n D. The Firewall can run the same policy on all cores",
+    "answer": "d"
+  },
+ {
+    "question": "What is also referred to as Dynamic NAT?",
+    "options": " A. Automatic NAT\n B. Static NAT\n C. Manual NAT\n D. Hide NAT",
+    "answer": "d"
+  },
+ {
+    "question": "Fill in the blank: To create policy for traffic to or from a particular location, use the__________",
+    "options": " A. DLP shared policy\n B. Geo policy shared policy\n C. Mobile Access software blade\n D. HTTPS inspection",
+    "answer": "b"
+  },
+ {
+    "question": "Your boss wants you to closely monitor an employee suspected of transferring company secrets to the competition. The IT department discovered the suspect installed a WinSCP client in order to use encrypted communication. Which of the following methods is BEST to accomplish this task?",
+    "options": " A. Use SmartView Tracker to follow his actions by filtering log entries that feature the WinSCP destination port. Then, export the corresponding entries to a separate log file for documentation.\n B. Use SmartDashboard to add a rule in the firewall Rule Base that matches his IP address, and those of potential targets and suspicious protocols. Apply the alert action or customized messaging.\n C. Watch his IP in SmartView Monitor by setting an alert action to any packet that matches your Rule Base and his IP address for inbound and outbound traffic.\n D. Send the suspect an email with a keylogging Trojan attached, to get direct information about his wrongdoings.",
+    "answer": "a"
+  },
+ {
+    "question": "Which VPN routing option uses VPN routing for every connection a satellite gateway handles?",
+    "options": " A. To satellites through center only\n B. To center only\n C. To center and to other satellites through center\n D. To center, or through the center to other satellites, to internet and other VPN targets",
+    "answer": "d"
+  },
+ {
+    "question": "Fill in the blanks: A security Policy is created in__________ stored in the___________ and Distributed to the various__________________",
+    "options": " A. Rule base. Security Management Server, Security Gateways\n B. SmartConsole, Security Gateway, Security Management Servers\n C. SmartConsole, Security Management Server, Security Gateways\n D. The Check Point database, SmartConsole, Security Gateways",
+    "answer": "c"
+  },
+ {
+    "question": "In which VPN community is a satellite VPN gateway not allowed to create a VPN tunnel with another satellite VPN gateway?",
+    "options": " A. Pentagon\n B. Combined\n C. Meshed\n D. Star",
+    "answer": "d"
+  },
+ {
+    "question": "Fill in the blank: The R80 SmartConsole, SmartEvent GUI client, and_________consolidate billions of logs and shows them as prioritized security events.",
+    "options": " A. SmartMonitor\n B. SmartView Web Application\n C. SmartReporter\n D. SmartTracker",
+    "answer": "b"
+  }
+]

@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h2>Question. {{ question.question }}</h2>
+    <p id="just-line-break">{{ question.options }}</p>
+    <form action="" method="post" novalidate>
+      {{ form.hidden_tag() }}
+      <p>
+        {{ form.answer.label }}<br>
+        {{ form.answer(size=1) }}
+      </p>
+      <p>
+        {{ form.submit_question() }}
+      </p>
+    </form>
+{% endblock %}

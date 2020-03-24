@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div>
+      <p>Your score is: {{ points }} / {{ num_questions }}</p>
+    </div>
+    {% if corrections %}
+      {% for question in questions %}
+      <div>
+        <p>Question. {{ question.question }}</p>
+      </div>
+      {% endfor %}
+    {% else %}
+      <div>
+        <p>Do you want to see the corrections? </p>
+      </div>
+      <form action="" method="post" novalidate>
+        {{ form.hidden_tag() }}
+        <p>
+          {{ form.corrections.label }}<br>
+          {{ form.corrections(size=1) }}
+        </p>
+        <p>
+          {{ form.submit_correction() }}
+        </p>
+      </form>
+    {% endif %}
+{% endblock %}

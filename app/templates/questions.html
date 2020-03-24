@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {% for question in questions %}
+    <div>
+      <p>Question. {{ question.question }}</p>
+    </div>
+    {% endfor %}
+{% endblock %}
