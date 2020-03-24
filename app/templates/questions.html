@@ -1,9 +1,10 @@
 {% extends "base.html" %}
 
 {% block content %}
+    <h2>We have {{ length }} available questions.</h2>
     {% for question in questions %}
     <div>
-      <p>Question. {{ question.question }}</p>
+      <p>Question {{ loop.index }}. {{ question.question }}</p>
     </div>
     {% endfor %}
 {% endblock %}

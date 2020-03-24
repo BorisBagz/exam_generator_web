@@ -59,7 +59,8 @@ def answering(my_answer):
 @app.route('/questions')
 def print_questions():
     data = read_json_file(json_questions)
-    return render_template('questions.html', questions=data)
+    length = len(data)
+    return render_template('questions.html', questions=data, length=length)
 
 @app.route('/', methods=['GET', 'POST'])
 @app.route('/index', methods=['GET', 'POST'])
